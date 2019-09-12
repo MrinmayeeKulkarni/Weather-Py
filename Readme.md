@@ -1,7 +1,7 @@
 
 # Weather Py Web Visualization Dashboard
 
-This is an analysis of over 500 cities around the world utililising Python, APIs, JSON and HTML-CSS to create an interactive dashboard to visualize it.
+This is an analysis of over 500 cities around the world utililising Python, APIs, JSON, HTML-CSS and Bootstrap to create an interactive dashboard to visualize it.
 
 [Link to the Github.io web dashboard](https://mrinmayeekulkarni.github.io/Weather-Py/index.html)
 
